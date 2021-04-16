@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I feel like I'm doing something.
+''' I fired a bullet on the moon! '''
 Use the left arrow to go back!
